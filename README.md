@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ahmed Ghazal! 👋
 
-<!--
-**ghaza1st/ghaza1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a cybersecurity student at **Alexandria National University**, passionate about securing IT infrastructures, analyzing threats, and managing digital risks. My focus is on:
 
-Here are some ideas to get you started:
+- **Network Security** (Firewalls, IDS/IPS, VPNs, and Access Controls)
+- **Linux Administration** (System Hardening, Server Security, User Permissions)
+- **Threat Detection & Risk Mitigation**
+- **Incident Response & Digital Forensics**
+- **Cybersecurity Data Analysis & Security Policies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+- 🔹 **Cybersecurity**: Risk Management, Threat Intelligence, Security Policies
+- 🔹 **Network Security**: Palo Alto Firewalls, Network Monitoring, VPN Security
+- 🔹 **Programming & Scripting**: Python, Bash, SQL
+- 🔹 **Linux & System Administration**: Hardening, Security Configurations
+- 🔹 **Web Development**: C#, SQL, HTML, CSS
+
+## Certifications
+- ✅ **AWS Academy Cloud Foundations**
+
+## GitHub Projects
+I work on projects related to cybersecurity, networking, and web security. Check out my repositories to see my latest work!
+
+## Get in Touch
+- 💼 [LinkedIn](#) https://www.linkedin.com/in/ahmedghaza1/
+- 📫 **Email**: ahmedxghazal@gmail.com
+Let's connect and collaborate on cybersecurity projects!
+
